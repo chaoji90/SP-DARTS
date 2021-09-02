@@ -10,6 +10,7 @@ Please download from https://github.com/D-X-Y/NAS-Bench-201 and replace the file
 `
 cd AutoDL-Projects_sp/;
 bash ./scripts-search/algos/[DARTS-V1_100.sh|DARTS-V1_10.sh] [cifar10|cifar100] 1 -1
+`
 
 ## DARTS search space:  
 `
